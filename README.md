@@ -1,3 +1,6 @@
+## Selfhosted / Opensource
+- [CoexistAI](https://github.com/SPThole/CoexistAI) **!**
+
 ## Websearch APIs
 - [linkup.so](https://www.linkup.so/)
 - [brave search api](https://brave.com/search/api/)
