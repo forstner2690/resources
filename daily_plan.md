@@ -1,0 +1,4 @@
+- Sport und dehnen
+- Vue und python lernen
+- Stock trading (with help of skillvestor)
+- Prompthell, andere kleine hilfreiche Tools
