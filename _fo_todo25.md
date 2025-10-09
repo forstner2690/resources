@@ -6,8 +6,9 @@
 ## Skillvestor:
 
 - Nur für mich, nur Companies.
-- Nur 1 Django page: List of companies + One Rating +  Filter to filter based on this one rating
-- Da filter ich mal alle Companies mit > 80!
+- Ich mach da auch nur ein Terminal Tool draus! 
+- Da filter ich mal alle Companies mit > 80! Und query alles mit SQL!
+- Die DB ist einfach eine chillige SQLITE
 
 ~~~
 Use websearch to create an insitutional level equity research report for the company {company}.
