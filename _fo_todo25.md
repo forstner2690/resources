@@ -9,7 +9,7 @@
 - Nur 1 Django page: List of companies + One Rating +  Filter to filter based on this one rating
 - Da filter ich mal alle Companies mit > 80!
 
-´´´
+~~~
 Use websearch to create an insitutional level equity research report for the company {company}.
 Focus on the following questions:
 
@@ -21,4 +21,10 @@ Focus on the following questions:
 
 At the end rate the company from 1 to 100 (1=strong sell, 100=strong buy). **NEVER COPY ANALYST RATINGS! DO THE RATING BASED ON YOU OWN CONCLUSIONS!**
 Provide a holistic and comprehensive rationale for you rating. 
-´´´
+~~~
+
+## El Button
+
+Build really from scratch! 
+Start with setting up Nuxt with Supabase, auth (also social auth), etc.
+Then begin with the schemas, the button itself, and the core loop (click every 30 sec., streaks, rewards, tokens, etc.)
