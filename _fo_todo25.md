@@ -11,7 +11,7 @@
 - Die DB ist einfach eine chillige SQLITE
 
 ~~~
-Use websearch to create an insitutional level equity research report for the company {company}.
+Use up-to-date data and informations (web search) to create an insitutional level equity research report for the company {company}.
 Focus on the following questions:
 
 - Is the company in a strong financial position?
