@@ -5,7 +5,14 @@ Investigate if the company has a good chance to perform exceptionally strong in 
 ## Task
 
 Use the latest news, up-to-date financial data and current informations (web search) to create an institutional grade equity research report for the company '{COMPANY}'.
-Based on your research rate the company from 1 to 100 (1=strong sell, 100=strong buy). **NEVER COPY ANALYST RATINGS OR OTHER PEOPLES CONCLUSIONS! DO THE RATING BASED ON YOU OWN CONCLUSIONS!**
+
+Based on your research create a 3 point rating of the company:
+
+- Valuation (1 - 100; 1=strongly overvalued, 100=strongly undervalued)
+- Recommendation (1 - 100; 1=strong sell, 100=strong buy).
+- Expected performance (1 - 100; 1=very weak, 100=very strong)
+
+**NEVER COPY ANALYST RATINGS OR OTHER PEOPLES CONCLUSIONS! DO THE RATING BASED ON YOU OWN CONCLUSIONS!**
 
 Base your rating decisions on following questions:
 
