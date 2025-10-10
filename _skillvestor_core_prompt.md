@@ -9,6 +9,7 @@ Based on your research rate the company from 1 to 100 (1=strong sell, 100=strong
 
 Base your rating decisions on following questions:
 
+- Is the valuation of the company reasonable, overvalued or undervalued?
 - Is the company in a strong financial position?
 - Is the company in a good position vs. competitors and in the context of the overall economic conditions?
 - Is the debt situation problematic or easy to manage?
@@ -16,4 +17,4 @@ Base your rating decisions on following questions:
 - What might be catalysts?
 - What are the biggest risks, challenges the company might face?
 
-Provide a holistic and comprehensive rationale for each conclusion.
+Think about each question in a holistic and comprehensive way and provide a clear rationale for each decision.
